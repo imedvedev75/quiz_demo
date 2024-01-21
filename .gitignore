@@ -1,0 +1,13 @@
+quiz
+server/.idea
+client/.metadata
+client/android
+client/.dart_tool
+client/.idea
+client/android
+client/build
+client/ios
+client/linux
+client/macos
+client/windows
+config.json
